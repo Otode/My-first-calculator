@@ -24,6 +24,5 @@
 
 ## 💻 Как запустить проект
 
-1. Клонируйте репозиторий:
-   ```bash
-   git clone [https://github.com/ВАШ_НИК/Console-Calculator-CSharp.git](https://github.com/ВАШ_НИК/Console-Calculator-CSharp.git)
+1. Клонируйте репозиторий через гит клон
+2. запустите в любую IDE, или скомпилируйте напрямую через команду дотнет билд
